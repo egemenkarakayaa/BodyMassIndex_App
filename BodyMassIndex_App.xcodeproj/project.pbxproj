@@ -56,13 +56,13 @@
 		B294B5162955D5BE0014F52A /* BodyMassIndex_App */ = {
 			isa = PBXGroup;
 			children = (
+				B294B5252955D5BF0014F52A /* Info.plist */,
+				B294B5202955D5BF0014F52A /* Assets.xcassets */,
+				B294B51D2955D5BE0014F52A /* Main.storyboard */,
+				B294B5222955D5BF0014F52A /* LaunchScreen.storyboard */,
 				B294B5172955D5BE0014F52A /* AppDelegate.swift */,
 				B294B5192955D5BE0014F52A /* SceneDelegate.swift */,
 				B294B51B2955D5BE0014F52A /* ViewController.swift */,
-				B294B51D2955D5BE0014F52A /* Main.storyboard */,
-				B294B5202955D5BF0014F52A /* Assets.xcassets */,
-				B294B5222955D5BF0014F52A /* LaunchScreen.storyboard */,
-				B294B5252955D5BF0014F52A /* Info.plist */,
 			);
 			path = BodyMassIndex_App;
 			sourceTree = "<group>";
